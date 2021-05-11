@@ -28,11 +28,11 @@ baseurl: "https://caoba200.github.io/index.html" # the subpath of your site, e.g
 url: "https://caoba200.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
-gems: jekyll-seo-tag
 # Build settings
 theme: jekyll-theme-yat
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
 
 # Exclude from processing.
 # The following items will not be processed, by default.
