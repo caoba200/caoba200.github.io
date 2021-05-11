@@ -29,8 +29,12 @@ url: "https://caoba200.github.io" # the base hostname & protocol for your site, 
 twitter_username: jekyllrb
 github_username:  jekyll
 # Build settings
+<<<<<<< HEAD
 remote_theme: "jeffreytse/jekyll-theme-yat"
 #theme: jekyll-theme-yat
+=======
+remote_theme: jeffreytse/jekyll-theme-yat
+>>>>>>> 6f599109e05f59cb34ee5bb408d2ef941fbea04a
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
