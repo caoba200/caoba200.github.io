@@ -23,6 +23,11 @@ body, html {
   min-height: 100%;
 }
 
-.w3-border-round {
-  border-radius: 50%;
+.half-height {
+  height: 50%;
+}
+
+.image-center {
+  display: flex;
+  justify-content: center;
 }

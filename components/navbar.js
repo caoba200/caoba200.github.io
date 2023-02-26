@@ -15,8 +15,8 @@ class NavBar extends HTMLElement {
                 <!-- Right-sided navbar links -->
                 <div class="w3-right w3-hide-small">
                     <a href="#about" class="w3-bar-item w3-button">About</a>
-                    <a href="#team" class="w3-bar-item w3-button">Blog</a>
-                    <a href="#work" class="w3-bar-item w3-button">Portfolio</a>
+                    <a href="404.html" target="_blank" class="w3-bar-item w3-button">Blog</a>
+                    <a href="#portfolio" class="w3-bar-item w3-button">Portfolio</a>
                     <a href="mailto:caoduybao2494@gmail.com" class="w3-bar-item w3-button"><i class="fa fa-envelope w3-hover-opacity"></i></a>
                     <a href="https://github.com/caoba200" target="_blank" class="w3-bar-item w3-button"><i class="fa fa-github w3-hover-opacity"></i></a>
                     <a href="https://www.linkedin.com/in/bao-duy-c-6b6b5b5b/" target="_blank" class="w3-bar-item w3-button"><i class="fa fa-linkedin w3-hover-opacity"></i></a>
