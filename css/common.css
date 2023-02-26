@@ -18,3 +18,11 @@ body, html {
 .w3-bar .w3-button {
   padding: 16px;
 }
+
+.full-height {
+  min-height: 100%;
+}
+
+.w3-border-round {
+  border-radius: 50%;
+}
